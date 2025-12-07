@@ -6,3 +6,4 @@ décompilation est strictement interdite sans autorisation écrite.
 
 Vous pouvez utiliser ce logiciel uniquement avec une licence valide
 fournie par Market5s.
+[klineBuilder - reconstruction automatique datasets crypto]([https://market5s.com/pages/klinebuilder-reconstruction-automatique-de-datasets-crypto)
